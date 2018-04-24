@@ -11,7 +11,6 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import com.bumptech.glide.Glide
 import com.infinite.imageviewer.R
-import kotlinx.android.synthetic.main.layout_image_viewer.*
 
 /**
  * @author kfzhangxu
