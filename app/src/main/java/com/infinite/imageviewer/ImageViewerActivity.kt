@@ -5,7 +5,7 @@ import android.os.Bundle
 import android.view.Window
 import layout.ImageViewerFragment
 
-class MainActivity : AppCompatActivity() {
+class ImageViewerActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
